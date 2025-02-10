@@ -1,4 +1,4 @@
-from src.fsdc_calories.src.data_process import DataCal
+from src.fsdc_calories.src
 from fastapi import FastAPI
 
 app = FastAPI()
