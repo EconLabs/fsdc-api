@@ -1,0 +1,3 @@
+[submodule "src/fsdc_calories"]
+	path = src/fsdc_calories
+	url = https://github.com/EconLabs/fsdc-calories.git
